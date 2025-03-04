@@ -1,0 +1,450 @@
+[
+  {
+    "id": "6190.0,7017.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/6190.0,7017.0,1000,1000/600,/0/default.jpg",
+      "title": "電気実験室",
+      "latitude": 35.7151233,
+      "longitude": 139.7623182,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "8346.0,8681.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/8346.0,8681.0,1000,1000/600,/0/default.jpg",
+      "title": "法文経教室　第二号館",
+      "latitude": 35.7129321,
+      "longitude": 139.7612649,
+      "subject": [
+        "法学部",
+        "文学部",
+        "経済学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "11126.0,8124.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/11126.0,8124.0,1000,1000/600,/0/default.jpg",
+      "title": "医学部　第二号館",
+      "latitude": 35.7109037,
+      "longitude": 139.7622949,
+      "subject": [
+        "医学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "12261.0,8976.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/12261.0,8976.0,1000,1000/600,/0/default.jpg",
+      "title": "医学部　第一号館",
+      "latitude": 35.7097492,
+      "longitude": 139.7618816,
+      "subject": [
+        "医学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "7040.0,7865.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/7040.0,7865.0,1000,1000/600,/0/default.jpg",
+      "title": "工学部　第二号館",
+      "latitude": 35.7143244,
+      "longitude": 139.7618343,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "10181.0,5483.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/10181.0,5483.0,1000,1000/600,/0/default.jpg",
+      "title": "内科病室",
+      "latitude": 35.7123118,
+      "longitude": 139.764372,
+      "subject": [
+        "医学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "8804.0,5159.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/8804.0,5159.0,1000,1000/600,/0/default.jpg",
+      "title": "学生食堂",
+      "latitude": 35.7135689,
+      "longitude": 139.7645652,
+      "subject": [
+        ""
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "3326.0,9719.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/3326.0,9719.0,1000,1000/600,/0/default.jpg",
+      "title": "農学部　第二号館",
+      "latitude": 35.7166753,
+      "longitude": 139.7594158,
+      "subject": [
+        "農学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "7544.0,9359.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/7544.0,9359.0,1000,1000/600,/0/default.jpg",
+      "title": "法文経教室　第一号館",
+      "latitude": 35.7134203,
+      "longitude": 139.76062,
+      "subject": [
+        "法学部",
+        "文学部",
+        "経済学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "10017.0,7362.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/10017.0,7362.0,1000,1000/600,/0/default.jpg",
+      "title": "山上会議所",
+      "latitude": 35.7121183,
+      "longitude": 139.7627108,
+      "subject": [
+        ""
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "8392.0,9331.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/8392.0,9331.0,1000,1000/600,/0/default.jpg",
+      "title": "文学部研究室",
+      "latitude": 35.7126873,
+      "longitude": 139.7607901,
+      "subject": [
+        "文学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "1854.0,8006.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/1854.0,8006.0,1000,1000/600,/0/default.jpg",
+      "title": "野球場",
+      "latitude": 35.7184833,
+      "longitude": 139.7608678,
+      "subject": [
+        "スポーツ施設"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "9554.0,8213.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/9554.0,8213.0,1000,1000/600,/0/default.jpg",
+      "title": "育徳園",
+      "latitude": 35.7122089,
+      "longitude": 139.7620034,
+      "subject": [
+        ""
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "5094.0,10178.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/5094.0,10178.0,1000,1000/600,/0/default.jpg",
+      "title": "船舶試験水槽上家",
+      "latitude": 35.7151585,
+      "longitude": 139.7593041,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "12528.0,6147.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/12528.0,6147.0,1000,1000/600,/0/default.jpg",
+      "title": "耳鼻咽喉科整形外科病室",
+      "latitude": 35.7102509,
+      "longitude": 139.7642327,
+      "subject": [
+        "医学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "10185.0,9944.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/10185.0,9944.0,1000,1000/600,/0/default.jpg",
+      "title": "史料編纂所",
+      "latitude": 35.7111428,
+      "longitude": 139.7605725,
+      "subject": [
+        ""
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "3938.0,8681.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/3938.0,8681.0,1000,1000/600,/0/default.jpg",
+      "title": "農学部　第三号館",
+      "latitude": 35.7165095,
+      "longitude": 139.7606565,
+      "subject": [
+        "農学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "8340.0,9991.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/8340.0,9991.0,1000,1000/600,/0/default.jpg",
+      "title": "法経済学部研究室",
+      "latitude": 35.7126024,
+      "longitude": 139.7602447,
+      "subject": [
+        "法学部",
+        "文学部",
+        "経済学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "4167.0,9702.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/4167.0,9702.0,1000,1000/600,/0/default.jpg",
+      "title": "農学部　第一号館",
+      "latitude": 35.7159457,
+      "longitude": 139.759576,
+      "subject": [
+        "農学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "6262.0,9560.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/6262.0,9560.0,1000,1000/600,/0/default.jpg",
+      "title": "工学部　第一号館",
+      "latitude": 35.7144106,
+      "longitude": 139.7600401,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "8087.0,7635.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/8087.0,7635.0,1000,1000/600,/0/default.jpg",
+      "title": "大講堂",
+      "latitude": 35.7134381,
+      "longitude": 139.762299,
+      "subject": [
+        ""
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "7467.0,9965.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/7467.0,9965.0,1000,1000/600,/0/default.jpg",
+      "title": "工学部列品室",
+      "latitude": 35.7133129,
+      "longitude": 139.7600601,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "5966.0,7813.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/5966.0,7813.0,1000,1000/600,/0/default.jpg",
+      "title": "工学部　第四号館",
+      "latitude": 35.7150937,
+      "longitude": 139.7616346,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "7069.0,6971.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/7069.0,6971.0,1000,1000/600,/0/default.jpg",
+      "title": "工学部　第三号館",
+      "latitude": 35.7143713,
+      "longitude": 139.7625263,
+      "subject": [
+        "工学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "9611.0,9599.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/9611.0,9599.0,1000,1000/600,/0/default.jpg",
+      "title": "図書館",
+      "latitude": 35.7116287,
+      "longitude": 139.7607835,
+      "subject": [
+        ""
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  },
+  {
+    "id": "12106.0,9662.0,1000,1000",
+    "attributes": {
+      "filename": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/2/agriculture_re%2Fnou_tatemonochokanzu%2F0002.tif/12106.0,9662.0,1000,1000/600,/0/default.jpg",
+      "title": "理学部　第二号館",
+      "latitude": 35.7096128,
+      "longitude": 139.7611825,
+      "subject": [
+        "理学部"
+      ],
+      "type": [
+        "Image",
+        "StillImage"
+      ],
+      "format": "image/jpeg"
+    }
+  }
+]

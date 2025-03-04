@@ -1,0 +1,33 @@
+{
+  "Common": {
+    "title": "Next.js x Search UI x Fuse.js",
+    "description": "Next.js x Search UI x Fuse.jsのサンプル",
+    "ja": "日本語",
+    "en": "English",
+    "home": "ホーム"
+  },
+  "HomePage": {
+    "search": "検索"
+  },
+  "Search": {
+    "placeholder": "検索",
+    "results": "件",
+    "noResults": "検索結果はありません。",
+    "next": "次へ",
+    "previous": "前へ",
+    "search": "検索",
+    "title": "検索ページ",
+    "description": "Search UIとFuse.jsを使った検索サンプルです。",
+    "simpleSearch": "簡易検索",
+    "advancedSearch": "詳細検索",
+    "show": "表示",
+    "sort": "ソート",
+    "showing": "表示中",
+    "of": "件中",
+    "and": "AND",
+    "or": "OR",
+    "addCondition": "条件を追加",
+    "asc": "昇順",
+    "desc": "降順"
+  }
+}

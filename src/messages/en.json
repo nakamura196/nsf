@@ -1,0 +1,33 @@
+{
+  "Common": {
+    "title": "Next.js x Search UI x Fuse.js",
+    "description": "Next.js x Search UI x Fuse.js sample",
+    "ja": "日本語",
+    "en": "English",
+    "home": "Home"
+  },
+  "HomePage": {
+    "search": "Search"
+  },
+  "Search": {
+    "placeholder": "Search",
+    "results": "Results",
+    "noResults": "No results found",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "title": "Search Page",
+    "description": "Search UI and Fuse.js sample",
+    "simpleSearch": "Simple Search",
+    "advancedSearch": "Advanced Search",
+    "show": "Show",
+    "sort": "Sort",
+    "showing": "Showing",
+    "of": "of",
+    "and": "AND",
+    "or": "OR",
+    "addCondition": "Add Condition",
+    "asc": "Asc",
+    "desc": "Desc"
+  }
+}
