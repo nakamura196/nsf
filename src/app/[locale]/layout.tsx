@@ -19,7 +19,7 @@ export const generateMetadata = async ({ params }: { params: Promise<{ locale: s
   const title = tCommon('title');
   const description = tCommon('description');
   const siteName = "Next.js Search UI Sample";
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://localhost:3000";
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://nsf-psi.vercel.app";
   
   return {
     title: {
@@ -83,8 +83,6 @@ export const generateMetadata = async ({ params }: { params: Promise<{ locale: s
     manifest: `${siteUrl}/site.webmanifest`,
     icons: {
       icon: '/favicon.ico',
-      shortcut: '/favicon-16x16.png',
-      apple: '/apple-touch-icon.png',
     },
   };
 };
