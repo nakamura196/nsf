@@ -19,7 +19,10 @@ export const generateMetadata = async ({ params }: { params: Promise<{ locale: s
   const title = tCommon('title');
   const description = tCommon('description');
   const siteName = "Next.js Search UI Sample";
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://nsf-psi.vercel.app";
+  // Ensure production URL is used in production environment
+  const siteUrl = process.env.NODE_ENV === 'production' 
+    ? 'https://nsf-psi.vercel.app'
+    : (process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000');
   
   return {
     title: {
@@ -55,7 +58,7 @@ export const generateMetadata = async ({ params }: { params: Promise<{ locale: s
       description,
       images: [
         {
-          url: `${siteUrl}/og-image.jpg`,
+          url: `${siteUrl}/og-image.svg`,
           width: 1200,
           height: 630,
           alt: title,
@@ -63,11 +66,12 @@ export const generateMetadata = async ({ params }: { params: Promise<{ locale: s
       ],
     },
     twitter: {
-      card: 'summary_large_image',
+      card: 'summary',
+      site: '@nakamura196',
+      creator: '@nakamura196',
       title,
       description,
-      images: [`${siteUrl}/og-image.jpg`],
-      creator: '@nsfproject',
+      images: [`${siteUrl}/og-image.svg`],
     },
     robots: {
       index: true,
